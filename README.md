@@ -1,2 +1,2 @@
 # Codeignator Project on Pharmacy Governance
- Pharmacy
+ https://manish-maller.github.io/Codeignator-Project-on-Pharmacy-Governance/
